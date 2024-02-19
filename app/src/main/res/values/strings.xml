@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="btn_plus">+</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="btn_multp">×</string>
+    <string name="btn_moins">-</string>
+    <string name="_0">0</string>
+    <string name="division">÷</string>
+    <string name="c">C</string>
+    <string name="egale">=</string>
+    <string name="virgule">.</string>
+    <string name="_opn">(</string>
+    <string name="_close">)</string>
+    <string name="backspace"> </string>
+    <string name="trigSinText">sin(x)</string>
+    <string name="trigCosText">cos(x)</string>
+    <string name="trigTanText">tan(x)</string>
+    <string name="trigArcSinText">sin<sup><small>-1</small></sup>(x)</string>
+    <string name="trigArcCosText">cos<sup><small>-1</small></sup>(x)</string>
+    <string name="trigArcTanText">tan<sup><small>-1</small></sup>(x)</string>
+    <string name="naturalLogText">ln(x)</string>
+    <string name="LogText">log(x)</string>
+    <string name="squareRootText">√(x)</string>
+    <string name="absoluteValueText">|x|</string>
+    <string name="piText">π</string>
+    <string name="eText">e</string>
+    <string name="xSquaredText">x<sup><small>2</small></sup></string>
+    <string name="xPowerYText">x<sup><small>y</small></sup></string>
+    <string name="factorielText">x!</string>
+</resources>
