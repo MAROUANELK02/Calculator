@@ -96,21 +96,21 @@
                                 style="@style/CalculatorButtonLand"
                                 android:layout_weight="1"
                                 android:textAllCaps="false"
-                                android:onClick="fourBTNPush"
+                                android:onClick="arcSinBTNPush"
                                 android:id="@+id/button39"/>
                         <Button
                                 android:text="@string/trigArcCosText"
                                 style="@style/CalculatorButtonLand"
                                 android:layout_weight="1"
                                 android:textAllCaps="false"
-                                android:onClick="fiveBTNPush"
+                                android:onClick="arcCosBTNPush"
                                 android:id="@+id/button40"/>
                         <Button
                                 android:text="@string/trigArcTanText"
                                 android:layout_weight="1"
                                 android:textAllCaps="false"
                                 style="@style/CalculatorButtonLand"
-                                android:onClick="sixBTNPush"
+                                android:onClick="arcTanBTNPush"
                                 android:id="@+id/button41"/>
 
                     </TableRow>
@@ -122,7 +122,7 @@
                                 android:text="@string/LogText"
                                 android:layout_weight="1"
                                 android:textAllCaps="false"
-                                android:onClick="oneBTNPush"
+                                android:onClick="logBTNPush"
                                 style="@style/CalculatorButtonLand"
                                 android:id="@+id/button42"/>
                         <Button
@@ -130,14 +130,14 @@
                                 android:layout_weight="1"
                                 android:textAllCaps="false"
                                 style="@style/CalculatorButtonLand"
-                                android:onClick="twoBTNPush"
+                                android:onClick="lnBTNPush"
                                 android:id="@+id/button43"/>
                         <Button
                                 android:text="@string/squareRootText"
                                 android:layout_weight="1"
                                 android:textAllCaps="false"
                                 style="@style/CalculatorButtonLand"
-                                android:onClick="threeBTNPush"
+                                android:onClick="sqrtBTNPush"
                                 android:id="@+id/button44"/>
 
                     </TableRow>
@@ -150,21 +150,21 @@
                                 style="@style/CalculatorButtonLand"
                                 android:layout_weight="1"
                                 android:textAllCaps="false"
-                                android:onClick="zeroBTNPush"
+                                android:onClick="eBTNPush"
                                 android:id="@+id/button45"/>
                         <Button
                                 android:text="@string/piText"
                                 style="@style/CalculatorButtonLand"
                                 android:layout_weight="1"
                                 android:textAllCaps="false"
-                                android:onClick="dotBTNPush"
+                                android:onClick="piBTNPush"
                                 android:id="@+id/button46"/>
                         <Button
                                 android:text="@string/absoluteValueText"
                                 android:layout_weight="1"
                                 android:textAllCaps="false"
                                 style="@style/CalculatorButtonLand"
-                                android:onClick="equalBTNPush"
+                                android:onClick="absBTNPush"
                                 android:id="@+id/button47"/>
                     </TableRow>
 
@@ -176,21 +176,21 @@
                                 style="@style/CalculatorButtonLand"
                                 android:layout_weight="1"
                                 android:textAllCaps="false"
-                                android:onClick="zeroBTNPush"
+                                android:onClick="factorielBTNPush"
                                 android:id="@+id/button48"/>
                         <Button
                                 android:text="@string/xSquaredText"
                                 style="@style/CalculatorButtonLand"
                                 android:layout_weight="1"
                                 android:textAllCaps="false"
-                                android:onClick="dotBTNPush"
+                                android:onClick="xSquaredBTNPush"
                                 android:id="@+id/button49"/>
                         <Button
                                 android:text="@string/xPowerYText"
                                 android:layout_weight="1"
                                 android:textAllCaps="false"
                                 style="@style/CalculatorButtonLand"
-                                android:onClick="equalBTNPush"
+                                android:onClick="xPowerYBTNPush"
                                 android:id="@+id/button50"/>
                     </TableRow>
                 </TableLayout>
