@@ -6,6 +6,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
+import org.mariuszgromada.math.mxparser.Argument;
 import org.mariuszgromada.math.mxparser.Expression;
 
 public class MainActivity extends AppCompatActivity {
@@ -136,15 +137,15 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void sinBTNPush(View view){
-        updateText("sin(");
+        updateText("sin(pi/180*");
     }
 
     public void cosBTNPush(View view){
-        updateText("cos(");
+        updateText("cos(pi/180*");
     }
 
     public void tanBTNPush(View view){
-        updateText("tan(");
+        updateText("tan(pi/180*");
     }
 
     public void arcSinBTNPush(View view){
